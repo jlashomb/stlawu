@@ -4,4 +4,3 @@
  * @file
  * Custom theme hooks.
  */
-
