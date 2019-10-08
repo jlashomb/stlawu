@@ -1,0 +1,20 @@
+uuid: 6e162957-971e-4a4d-9193-7ae3decc8b27
+langcode: en
+status: true
+dependencies:
+  theme:
+    - stlawu_radix
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: stlawu_radix_local_actions
+theme: stlawu_radix
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

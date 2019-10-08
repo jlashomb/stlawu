@@ -1,0 +1,22 @@
+uuid: 56bfcee7-d5c2-4149-8f39-65b5044cd96b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - stlawu_radix
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: stlawu_radix_messages
+theme: stlawu_radix
+region: navbar_branding
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

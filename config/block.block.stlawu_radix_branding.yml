@@ -1,0 +1,25 @@
+uuid: d1d827c8-ecc7-4e0d-b839-38e748f0d7b9
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - stlawu_radix
+_core:
+  default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
+id: stlawu_radix_branding
+theme: stlawu_radix
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }
