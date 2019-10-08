@@ -1,0 +1,5 @@
+# Schema for the configuration files of the St. Lawrence University Radix theme.
+
+stlawu_radix.settings:
+  type: theme_settings
+  label: 'St. Lawrence University Radix settings'

@@ -1,0 +1,10 @@
+style:
+  version: VERSION
+  css:
+    theme:
+      assets/css/stlawu_radix.style.css: {}
+  js:
+    assets/js/stlawu_radix.script.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

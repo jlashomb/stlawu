@@ -1,0 +1,4 @@
+name: stlawu
+recipe: drupal8
+config:
+  webroot: web
