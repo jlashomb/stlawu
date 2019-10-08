@@ -7,7 +7,7 @@
  | for your application. See https://github.com/JeffreyWay/laravel-mix.
  |
  */
-const proxy = 'http://stlawu.lndo.site';
+const proxy = 'http://stlawu.lndo.site:8000';
 const mix = require('laravel-mix');
 
 /*
